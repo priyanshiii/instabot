@@ -130,7 +130,6 @@ def start_bot():
         print "b.Get details of a user by username\n"
         print "c.Get your own recent post\n"
         print "d.Get the recent post of a user by username\n"
-
         print "e.Exit"
 
         choice = raw_input("Enter you choice: ")
